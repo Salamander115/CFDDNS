@@ -11,7 +11,9 @@ URLs = []                                           # List of domains that shoul
 updateInterval = 10                                 # In seconds, the amount of time between each update, suggested to keep above 5
 ```
 
-When you have completed that, simply run the application, and watch the magic begin.
+When you have completed that, If you haven't already, you will need to [install texttables](https://pypi.python.org/pypi/texttable) which can also be done using the command: `pip install texttable`.
+
+Now all you have to do is run the program, and enjoy your new DDNS.
 
 
 ===========
@@ -23,3 +25,4 @@ Future plans:
 - Compress script by reducing repeated code  -- Low Priority
 - Add more options, and functions -- Just Sorta Happens
 - One day, make a GUI version (User interface) -- I need to learn some more stuff first.
+- Remove `texttables.py` Dependency -- Medium-High-Priority
