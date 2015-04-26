@@ -17,8 +17,9 @@ When you have completed that, simply run the application, and watch the magic be
 ===========
 
 Future plans:
-- Add support for sub-domains (CNAME's)
-- Improve speed, by reducing amount of requests made
-- Compress script by reducing repeated code
-- Add more options, and functions
-- One day, make a GUI version (User interface)
+- Implement an error handling system  -- High Priority
+- Add support for sub-domains (CNAME's)  -- High Priority 
+- Improve speed, by reducing amount of requests made -- Medium Priority
+- Compress script by reducing repeated code  -- Low Priority
+- Add more options, and functions -- Just Sorta Happens
+- One day, make a GUI version (User interface) -- I need to learn some more stuff first.
