@@ -26,3 +26,4 @@ Future plans:
 - Add more options, and functions -- Just Sorta Happens
 - One day, make a GUI version (User interface) -- I need to learn some more stuff first.
 - Remove `texttables.py` Dependency -- Medium-High-Priority
+- Add to PyPI and allow PIP install
